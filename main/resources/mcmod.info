@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ppprev",
+  "name": "Prehistoric Planet Preview",
+  "description": "The Preview mod for Prehistoric Planet. This mod adds the blocks and items that will be in the pre-alpha of prehistoric planet. They do not function at the moment.",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DTRaptor, CanetheVelociraptor"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
